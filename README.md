@@ -47,16 +47,9 @@ The system is trained to recognize four head positions:
 ## 🏆 Experiment Results  
 | Model  | Accuracy |
 |--------|----------|
-| 🧩 **CNN** | 📊 `99.23%` |
+| 🧩 **CNN** | 📊 `96.53%` |
 | 🧩 **ViT** | 📊 `98.76%` |
-| 🧩 **CvT** | 📊 `99.45%` |
-
-### **Confusion Matrix Performance**
-| Model | Precision | Recall | F1-Score |
-|--------|----------|--------|----------|
-| **CNN** | ✅ `98.9%` | ✅ `99.1%` | ✅ `99.0%` |
-| **ViT** | ✅ `98.5%` | ✅ `98.6%` | ✅ `98.5%` |
-| **CvT** | ✅ `99.3%` | ✅ `99.4%` | ✅ `99.3%` |
+| 🧩 **CvT** | 📊 `95.2` |
 
 ## 🖥️ System Requirements  
 **🔹 Hardware:**  
