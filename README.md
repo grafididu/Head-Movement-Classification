@@ -49,7 +49,7 @@ The system is trained to recognize four head positions:
 |--------|----------|
 | 🧩 **CNN** | 📊 `96.53%` |
 | 🧩 **ViT** | 📊 `98.76%` |
-| 🧩 **CvT** | 📊 `95.2` |
+| 🧩 **CvT** | 📊 `95.20%` |
 
 ## 🖥️ System Requirements  
 **🔹 Hardware:**  
