@@ -70,5 +70,5 @@ The system is trained to recognize four head positions:
 - 📂 Jupyter Notebook  
 
 ## 🤝 Contributors
-👤 Alexius Andrianno Alfa R. - Universitas Brawijaya
+👤 Alexius Andrianno Alfa R. - Universitas Brawijaya  
 👤 Alif Akbar Grafidi - Universitas Brawijaya
