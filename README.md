@@ -69,8 +69,6 @@ The system is trained to recognize four head positions:
 - 🏗 TensorFlow / PyTorch  
 - 📂 Jupyter Notebook  
 
-## 📡 Installation & Usage  
-1️⃣ **Clone the Repository**  
-```bash
-git clone https://github.com/username/repository.git
-cd repository
+## 🤝 Contributors
+👤 Alexius Andrianno Alfa R. - Universitas Brawijaya
+👤 Alif Akbar Grafidi - Universitas Brawijaya
