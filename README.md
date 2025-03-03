@@ -71,4 +71,5 @@ The system is trained to recognize four head positions:
 
 ## 🤝 Contributors
 👤 Alexius Andrianno Alfa R. - Universitas Brawijaya  
-👤 Alif Akbar Grafidi - Universitas Brawijaya
+👤 Alif Akbar Grafidi - Universitas Brawijaya  
+📌 Supervisor: Prof. Dr. Eng. Fitri Utaminingrum, S.T., M.T.
